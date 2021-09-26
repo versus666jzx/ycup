@@ -44,5 +44,3 @@ for _ in range(feed_count):
 
 offers["offers"] = offers["offers"][:feed_max]
 print(json.dumps(offers))
-
-
